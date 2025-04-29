@@ -1,12 +1,12 @@
 token: "Mn0v0a#661521" --------------------------------- registro: allin 
 token: "mquintero#1214#" ------------------------------- registro: allin
 token: "kdiaz#5418#" ----------------------------------- registro: allin
-token: "vipAccess$7$7" --------------------------------- registro: allin
+token: "vipAccess77" --------------------------------- registro: allin
 token: "7dias#777" ------------------------------------- registro: 7D
 token: "1dia#1#1" -------------------------------------- registro: 1D
-token: "5dias555#" ------------------------------------- registro: 5D
-token: "3dias###3" ------------------------------------- registro: 3D
+token: "5dias" ------------------------------------- registro: 5D
+token: "3dias" ------------------------------------- registro: 3D
 token: "4horas" ---------------------------------------- registro: 4H
-token: "1hora###1#" ------------------------------------ registro: 1H
+token: "1hora" ------------------------------------ registro: 1H
 token: "iscmnovoa@gmail.com661521" --------------------- registro: 2025-04-28
 token: "#M0d0Epyk*" ------------------------------------ registro: 2025-07-30
